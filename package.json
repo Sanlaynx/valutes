@@ -1,0 +1,20 @@
+{
+  "name": "valutes",
+  "version": "1.0.0",
+  "description": "Получение валют разных стран",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "Sanlaynx",
+  "devDependencies": {
+    "electron": "^13.2.1"
+  }
+}
